@@ -62,8 +62,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\AdventureGame.cs" />
-    <Compile Include="Assets\State.cs" />
+    <Compile Include="Assets\Scripts\AdventureGame.cs" />
+    <Compile Include="Assets\Scripts\State.cs" />
     <None Include="Assets\:EmptyTextFile.txt" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/evamaina/Unity/The injured Pilot/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>

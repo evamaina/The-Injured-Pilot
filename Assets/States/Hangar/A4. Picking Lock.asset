@@ -10,20 +10,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a4da55a17f7a64a39a5e5a84e1b6641c, type: 3}
-  m_Name: StartingState
+  m_Name: A4. Picking Lock
   m_EditorClassIdentifier: 
-  storyText: 'Festers.Everywhere. Armed mostly with gas- powered rock flingers. At
-    least 10 of them guarding the hangar door. Typical.
+  storyText: 'You give it a good 10 minutes. No dice. Not going to happen.
 
 
-    Could try punching my way through. Or sneaking the wrong way to the emergency
-    exit.
+    You do realise that you have no idea how to pick a lock right? You''re an airship
+    pilot, not a common thief.
 
 
-    What should I do?
+    So what now?
 
-    1. Take them head on? - rush the 10 guards.
-
-    2. Sneak my way to the emergency exit
-
-'
+    1. Fine, try to pry it."'
+  nextStates:
+  - {fileID: 11400000, guid: f934b24ff8611452b9843f39f4996b6e, type: 2}
