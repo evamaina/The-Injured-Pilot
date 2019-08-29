@@ -19,4 +19,5 @@ MonoBehaviour:
     family. You drive home your metal shiv. You hear the crunch of bones and feel\n
     the slice of flesh. \n\nAfter a brief struggle, there is stillness. You look down
     and see... oh my lord... you see... yourself? What? How?\n\n1. Continue..."
-  nextStates: []
+  nextStates:
+  - {fileID: 11400000, guid: b01b2bcaa4d064b5e9c7adda39ade7ce, type: 2}

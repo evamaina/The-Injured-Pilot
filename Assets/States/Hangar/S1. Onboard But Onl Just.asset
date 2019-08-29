@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a4da55a17f7a64a39a5e5a84e1b6641c, type: 3}
-  m_Name: S1
+  m_Name: S1. Onboard But Onl Just
   m_EditorClassIdentifier: 
   storyText: 
   nextStates: []
